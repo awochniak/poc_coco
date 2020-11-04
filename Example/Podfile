@@ -1,6 +1,4 @@
 use_frameworks!
-target 'coco_Tests' do
+target 'coco' do
   pod 'coco', :git => 'https://github.com/awochniak/poc_coco.git'
-  pod 'Quick', '~> 1.2.0'
-  pod 'Nimble', '~> 7.0'
 end
