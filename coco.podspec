@@ -1,4 +1,4 @@
-#
+\#
 # Be sure to run `pod lib lint coco.podspec' to ensure this is a
 # valid spec before submitting.
 #
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'coco/Classes/**/*'
+  s.source_files = 'Sources/**/*.swift'
   
   # s.resource_bundles = {
   #   'coco' => ['coco/Assets/*.png']

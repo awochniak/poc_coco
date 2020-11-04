@@ -1,0 +1,32 @@
+PODS:
+  - coco (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - coco (from `https://github.com/awochniak/poc_coco.git`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  coco:
+    :git: https://github.com/awochniak/poc_coco.git
+
+CHECKOUT OPTIONS:
+  coco:
+    :commit: 36a66e59d4cedc47ade4fdf30b4d51bcaaf70bef
+    :git: https://github.com/awochniak/poc_coco.git
+
+SPEC CHECKSUMS:
+  coco: 420741200d2b6998a4e04dcec2c78ad5572d3dbb
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 04cfcbdcd8d3305f08625edc7ed798f8c8ea7499
+
+COCOAPODS: 1.10.0
